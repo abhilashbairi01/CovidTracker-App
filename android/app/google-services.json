@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712492886687",
+    "project_id": "myproj-auth-44ca2",
+    "storage_bucket": "myproj-auth-44ca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712492886687:android:d70b0931df6f4e3e7d10aa",
+        "android_client_info": {
+          "package_name": "com.covidupd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712492886687-5e5u7j4fsldvl9pgd6oba6oab50didq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeYtHCVHaYgSywWTtKFZu2a941MtEcL3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712492886687-5e5u7j4fsldvl9pgd6oba6oab50didq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
